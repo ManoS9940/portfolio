@@ -1,0 +1,17 @@
+.About_Me{
+    display: flex;
+    padding: 30px;
+    color: white;
+    background-image: url("./images/aboutme2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.About_Me_Content>p{
+    text-align: left;
+    font-size: 25px;
+    padding-right: 300px;
+    padding-left: 200px;
+}
